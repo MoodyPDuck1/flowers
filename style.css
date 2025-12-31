@@ -3,6 +3,7 @@ html, body {
     padding: 0;
     margin: 0;
     background: radial-gradient(circle, #1a0505 0%, #000000 100%);
+    
 }
 .container {
     position: fixed;
